@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Космическое пространство</title>
+<meta charset= "utf-8">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <nav class="main-nav">
+      <a class="logo">
+        <img src="https://all-aforizmy.ru/wp-content/uploads/2021/11/original_planeti.jpg" alt="SpaceZ" width="60" height="60">
+      </a>
+      <ul class="site-menu">
+        <li>Атмосфера и ближний космос<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE#%D0%9C%D0%B5%D0%B6%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE"><img src="https://oir.mobi/uploads/posts/2019-12/1576858232_9-20.jpg" width="60" height="60"></a></li>
+        <li>Первые полеты в космос<a href="https://translated.turbopages.org/proxy_u/en-ru.ru.11e5776e-63962e6d-4e98ee66-74722d776562/https/en.wikipedia.org/wiki/Space_history"></a></li>
+        <li>Будущее развитие<a href="https://translated.turbopages.org/proxy_u/en-ru.ru.78816be9-63962e8e-009798de-74722d776562/https/en.wikipedia.org/wiki/Future_of_Space_Exploration"></a></li>
+      </ul>
+      <ul class="contacts-menu">
+        <li>
+          <a href="#" class="icon icon-mail" title=""> Задать вопрос
+
+          </a>
+        </li>
+        <li>
+          <a href="https://dzen.ru/deep_cosmos" class="icon icon-phone" title="">Подробнее
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <section class="about-us">
+      <h1>Адрес электронной почты</h1>
+      <p>spaceEurope@mail.com
+      </p>
+      <a href="https://vk.com/kosmos_and_astronomy?ysclid=lbjxvywqbp854666024" class="btn btn-yellow"></a>
+    </section>
+  </div>
+</header>
+</body>
+</html>
